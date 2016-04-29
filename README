@@ -1,0 +1,7 @@
+This repository contains a sample ASP.Net Core Mvc projectwhich can be used for learning how to develop containerize a .NET Core application.
+
+This sample aligns to the .NET CLI 1.0.0-rc2-002531.
+
+
+[ASP.NET CLI Samples](https://github.com/aspnet/cli-samples)
+[DotNet Core Samples](https://github.com/kerryjiang/dotnetcore-samples)
